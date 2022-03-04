@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+    height: 72px;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
